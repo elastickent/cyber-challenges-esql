@@ -1,7 +1,8 @@
 **Cyber Challenge: Apache Log Analysis Adventure**
 
 **Background:**
-You've been tasked with investigating suspicious login attempts and potentially malicious activities in Apache logs. Your goal is to sift through the logs, identify anomalies, follow the trails of suspicious users, and analyze login patterns to uncover any potential security threats.
+You've been tasked with investigating suspicious login attempts and potentially malicious activities in Apache logs. Your goal is to sift through the logs, identify anomalies, follow the trails of suspicious users, and analyze login patterns to uncover any potential security threats using ESQL in [Kibana.](https://demo.elastic.co/app/r?l=DISCOVER_APP_LOCATOR&v=8.12.0&lz=N4IgjgrgpgTgniAXKKBnMAbJIBmMD2AtgAQ4CWGUARlAIYAuAtAFQA0G%2BA5qi8QD7EMZQmXrEAjAAYQAX1YhU%2BGPSQBtVSAAC9YWnq1CABxDyAJmgDGIALrX5F%2FBgiEAdqjV2QZF%2BYAe2UwAmAFYcYOCLU0YAdgAWaIBmRlicAE4ADkZU2nFMhKpYwPFo9JwoSRwqEy8XelgAN1osRBBaCHp8avIMOph3RFVPAAsycwBhIdplJHoYaDMGWgA1MigAdwBlQygrZC9TAJCwiKi4xOS0zOzcxnzC4tLyyuqdekpsbuo6JjYObhYXroAGKrDC
+
 
 **Getting Started:**
 Access the Apache logs using the provided ESQL queries. These queries will help you filter and analyze login attempts, track user activities, and identify any unusual behavior.
@@ -37,6 +38,6 @@ Access the Apache logs using the provided ESQL queries. These queries will help 
 2. How many login attempts were made within the specified timeframe by the user "haag8418"?
 3. Which country is associated with the highest data transfer (bytes) in the suspicious login attempts?
 4. What are the top three URLs accessed during the suspicious login attempts?
-5. Based on the login patterns, what recommendations would you provide to enhance security measures?
+5. What is the most common time interval (in minutes) for login attempts based on the grouping performed in the "Grouping logins using a time histogram" ESQL query?
 
 **Note:** Ensure to document your findings and observations throughout the investigation process. Utilize the provided ESQL queries effectively to extract meaningful insights from the Apache logs.
