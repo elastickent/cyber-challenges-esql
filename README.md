@@ -1,7 +1,7 @@
 **Cyber Challenge: Apache Log Analysis Adventure**
 
 **Background:**
-You've been tasked with investigating suspicious login attempts and potentially malicious activities in Apache logs. Your goal is to sift through the logs, identify anomalies, follow the trails of suspicious users, and analyze login patterns to uncover any potential security threats using ESQL in [Kibana.](https://demo.elastic.co/app/r?l=DISCOVER_APP_LOCATOR&v=8.12.0&lz=N4IgjgrgpgTgniAXKKBnMAbJIBmMD2AtgAQ4CWGUARlAIYAuAtAFQA0G%2BA5qi8QD7EMZQmXrEAjAAYQAX1YhU%2BGPSQBtVSAAC9YWnq1CABxDyAJmgDGIALrX5F%2FBgiEAdqjV2QZF%2BYAe2UwAmAFYcYOCLU0YAdgAWaIBmRlicAE4ADkZU2nFMhKpYwPFo9JwoSRwqEy8XelgAN1osRBBaCHp8avIMOph3RFVPAAsycwBhIdplJHoYaDMGWgA1MigAdwBlQygrZC9TAJCwiKi4xOS0zOzcxnzC4tLyyuqdekpsbuo6JjYObhYXroAGKrDC
+You've been tasked with investigating suspicious login attempts and potentially malicious activities in Apache logs. Your goal is to sift through the logs, identify anomalies, follow the trails of suspicious users, and analyze login patterns to uncover any potential security threats using ESQL in [Kibana.](https://demo.elastic.co/app/r?l=DISCOVER_APP_LOCATOR&v=8.12.0&lz=N4IgjgrgpgTgniAXKKBnMAbJIBmMD2AtgAQ4CWGUARlAIYAuAtAFQA0G%2BA5qi8QD7EMZQmXrEAjAAYQAX1YhU%2BGPSQBtVSAAC9YWnq1CABxDyAJmgDGIALrX5F%2FBgiEAdqjV2QZF%2BYAe2UwAmAFYcYOCLU0YAdgAWaIBmRlicAE4ADkZU2nFMhKpYwPFo9JwoSRwqEy8XelgAN1osRBBaCHp8avIMOph3RFVPAAsycwBhIdplJHoYaDMGWgA1MigAdwBlQygrZC9TAJCwiKi4xOS0zOzcxnzC4tLyyuqdekpsbuo6JjYObhYXroAGKrDC)
 
 
 **Getting Started:**
